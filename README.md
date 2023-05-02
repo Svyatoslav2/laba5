@@ -36,13 +36,13 @@
 ## Символ 𐒆 (deel)
 Прямое и инвертированное сгенерированные изображения:
 
-![](alphabet/direct/letter_07.png)
-![](alphabet/inverse/letter_07.png)
+![](alphabet/direct/letter_17.png)
+![](alphabet/inverse/letter_17.png)
 
 Профили буквы:
 
-![](results/profiles/x/letter_07.png "Профиль по Х")
-![](results/profiles/y/letter_07.png "Профиль по Y")
+![](results/profiles/x/letter_17.png "Профиль по Х")
+![](results/profiles/y/letter_17.png "Профиль по Y")
 
 Признаки:
 1. Вес первого квадрата: 103
